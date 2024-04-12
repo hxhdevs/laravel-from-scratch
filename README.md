@@ -63,3 +63,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel-from-scratch
+
+
+# Para instalar ejecuta
+composer install
+composer update
+php artisan key:generate
+# Crea .env, toma los valores de .env.example, asigna una  y despues ejecuta
+php artisan migrate
+php artisan serve
+
+
+
+
+
+
+
+
